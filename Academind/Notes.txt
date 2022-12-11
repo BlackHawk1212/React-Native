@@ -1,0 +1,10 @@
+What is React Native?
+	A framework for building native apps using JavaScript.
+
+Im using Expo CLI to develop my project.
+
+In order to install Expo
+	npm i -g expo-cli
+
+To create a project
+	expo init <project name>
